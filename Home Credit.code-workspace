@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Downloads/home-credit-credit-risk-model-stability"
+		}
+	],
+	"settings": {
+		"dataWrangler.experiments.fastCsvParsing": true
+	}
+}
